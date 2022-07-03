@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rabie-el-hakouni
-- 🌱 I’m currently learning nodejs
+- 🌱 I’m currently learning python
 
 <!---
 Rabie-el-hakouni/Rabie-el-hakouni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
